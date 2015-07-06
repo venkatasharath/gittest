@@ -4,7 +4,7 @@ public class Example2 {
 	
 	public static void main(String a[])
 	{
-		System.out.println("commit test hook 555");
+		System.out.println("git commit from bash");
 	}
 
 }
