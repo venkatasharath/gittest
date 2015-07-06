@@ -4,6 +4,6 @@ public class Example2 {
 	
 	public static void main(String a[])
 	{
-		System.out.println("test jenkins build commit from eclipse");
+		System.out.println("testing ssh");
 	}
 }
