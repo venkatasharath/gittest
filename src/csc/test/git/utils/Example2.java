@@ -4,6 +4,6 @@ public class Example2 {
 	
 	public static void main(String a[])
 	{
-		System.out.println("testing ssh with comment");
+		System.out.println("testing new commit");
 	}
 }
