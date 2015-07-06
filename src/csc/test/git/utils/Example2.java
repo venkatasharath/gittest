@@ -4,6 +4,6 @@ public class Example2 {
 	
 	public static void main(String a[])
 	{
-		System.out.println("my new commit here");
+		System.out.println("commit is not working");
 	}
 }
