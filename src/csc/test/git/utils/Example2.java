@@ -4,6 +4,6 @@ public class Example2 {
 	
 	public static void main(String a[])
 	{
-		System.out.println("jenkins test 10234124 5 rrete 7/7/2015");
+		System.out.println("testing hook");
 	}
 }
