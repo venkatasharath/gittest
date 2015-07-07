@@ -4,6 +4,6 @@ public class Example2 {
 	
 	public static void main(String a[])
 	{
-		System.out.println("curl test 434 232342");
+		System.out.println("jenkins test 101");
 	}
 }
